@@ -1,0 +1,37 @@
+[
+  {
+    "name": "create",
+    "path": "/create",
+    "component": "E:\\\\github\\\\part-pj\\\\part-pj\\\\app\\\\pages\\\\create.vue",
+    "chunkName": "pages/create",
+    "_name": "_297308f6"
+  },
+  {
+    "name": "detail",
+    "path": "/detail",
+    "component": "E:\\\\github\\\\part-pj\\\\part-pj\\\\app\\\\pages\\\\detail.vue",
+    "chunkName": "pages/detail",
+    "_name": "_5be5405a"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "E:\\\\github\\\\part-pj\\\\part-pj\\\\app\\\\pages\\\\test.vue",
+    "chunkName": "pages/test",
+    "_name": "_7b8a2c5b"
+  },
+  {
+    "name": "update",
+    "path": "/update",
+    "component": "E:\\\\github\\\\part-pj\\\\part-pj\\\\app\\\\pages\\\\update.vue",
+    "chunkName": "pages/update",
+    "_name": "_eff3365c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\github\\\\part-pj\\\\part-pj\\\\app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_0e911a59"
+  }
+]
